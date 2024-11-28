@@ -1,2 +1,1 @@
-# grafana-flavian-app
- 
+Aplicatie Grafana care foloseste TestData cu 2 variabile 'min' si 'max' care afecteaza generatia valorilor si o variabila 'series count' care afecteaza cate lini sunt generate.
